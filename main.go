@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"learnpackage/simpleinterest"
+	"github.com/crsandeep/learnpackage/simpleinterest"
 )
 
 func main() {
